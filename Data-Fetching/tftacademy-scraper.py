@@ -28,24 +28,11 @@ if response.status_code == 200:
 else:
     print(f"Failed to retrieve page, status code: {response.status_code}")
 
-comp_info = {
-    "tier": None,
-    "name": None,
-    "playstyle": None,
-    "augments": None,
-    "augment-priority": None,
-    "tips": None,
-    "units": [{"name": None, "items": None, "star-level": None}],
-    "early-comp": [{"name": None, "items": None, "star-level": None}],
-    "item-priority": [],
-    "positioning": None,
-    "stage2-tips": None,
-    "stage3-tips": None,
-    "stage4-tips": None,
-}
+res = []
 
 for key, item in tier_links.items():
     for link in item:
+        comp_info = {}
         response = requests.get("https://tftacademy.com" + link, headers=headers)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
@@ -78,6 +65,11 @@ for key, item in tier_links.items():
             comp_info['item-priority'] = None
             comp_info['positioning'] = None
             print(comp_info)
+            res.append(comp_info)
+
+
+print(res)
+            
             
             
 
