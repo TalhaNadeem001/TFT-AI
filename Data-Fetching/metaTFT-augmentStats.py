@@ -1,28 +1,21 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 import time
-import os
-import sys
 
-# Set up Chrome options
-chrome_options = Options()
-chrome_options.add_argument("--headless")  # Run in headless mode (no GUI)
-chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument('--ignore-certificate-errors')
-chrome_options.add_argument('--disable-dev-shm-usage')
-chrome_options.add_argument('--disable-gpu')
+options = Options()
+options.add_argument("--headless=new")  # Use modern headless mode
+options.add_argument("--disable-gpu")  # Prevent rendering issues
+options.add_argument("--window-size=1920x1080")  # Set a standard window size
+options.add_argument("--log-level=3")  # Reduce logging
+options.add_argument("--ignore-certificate-errors")  # Ignore SSL issues
+options.add_argument("--disable-dev-shm-usage")  # Prevent resource issues in Linux
+options.add_argument("--no-sandbox")  # Needed for some environments like Docker
 
-# Initialize driver as None first
-driver = None
+driver = webdriver.Chrome(options=options)
+driver.get("https://www.metatft.com/augments")
 
 try:
-    # Initialize the driver with automatic ChromeDriver management and explicit version check
-    service = Service(ChromeDriverManager(os_type="win32").install())
-    driver = webdriver.Chrome(service=service, options=chrome_options)
-    
     # Load the page
     url = "https://www.metatft.com/augments"
     driver.get(url)
@@ -45,8 +38,7 @@ try:
         data[tier_title] = augments
 
     print(data)
-
+    
 finally:
-    # Only quit if driver was successfully initialized
-    if driver is not None:
-        driver.quit()
+    # Close the WebDriver
+    driver.quit()
