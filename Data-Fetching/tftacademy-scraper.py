@@ -45,7 +45,7 @@ for key, item in tier_links.items():
             aug_priority = soup.find_all("div", class_="text-sm font-semibold text-white")
             aug_priority_text = [div.text.strip() for div in aug_priority]
             comp_info['augment-priority'] = aug_priority_text
-            comp_info['tips'] = soup.find("div", class_="relative mb-4 h-fit w-full text-pretty break-words rounded-[40px] border-2 border-[#064696] px-7 py-7 text-center font-semibold normal-case").text.strip()
+            comp_info['tips'] = soup.find("div", class_="relative mb-4 h-fit w-full text-pretty break-words rounded-[40px] border-2 border-primary-900 px-7 py-7 text-center font-semibold normal-case").text.strip()
 
             # Find the div with the specified class
             stage2_div = soup.find_all("div", class_="mb-4 border-b-2 border-[#064696] px-4 py-1 text-xl")
