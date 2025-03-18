@@ -1,0 +1,55 @@
+What is TFT (Teamfight Tactics)?
+Teamfight Tactics (TFT) is an auto-battler game developed by Riot Games, the same company that created League of Legends (LoL). It is a strategic, turn-based game where players build teams of units, place them on a grid-like battlefield, and then watch the action unfold automatically as the units fight each other. The goal of TFT is to outlast your opponents by creating the strongest team possible, using a combination of strategy, planning, and smart decisions.
+
+How Does TFT Work?
+In TFT, players start each round with a small amount of gold and a few units (champions). You’ll then spend your gold to buy new units, upgrade your existing units, or re-roll the shop to get better options. The goal is to combine your units into powerful teams that can defeat your opponents' teams during the automatic battles.
+
+Key Elements in TFT:
+Gold and Economy:
+
+At the start of each game, you are given a certain amount of gold. You use this gold to buy units or re-roll for new options.
+You can earn gold each round, either by winning battles, losing with a streak, or by using certain game mechanics like interest (where you earn bonus gold for saving up).
+Units (Champions):
+
+Each unit in TFT represents a champion from the League of Legends universe.
+Champions have traits and classes that determine their synergies with other units. These synergies are important because they give your team additional strengths during battle.
+Champions also have costs (in gold) that vary, and they start at different levels (1, 2, or 3 stars). The higher the level, the stronger the unit.
+Traits and Classes:
+
+Traits are characteristics that define a unit, like being an Assassin, Mage, Brawler, etc.
+Classes refer to the roles the units play in combat. For example, Mages use spells that deal damage, while Brawlers are tougher and have more health.
+You can unlock synergies between units by having multiple units of the same trait or class. For example, if you have enough Mages on the battlefield, they will gain an extra ability that boosts their effectiveness.
+Rounds and Combat:
+
+The game is divided into rounds. In the first few rounds, you face off against NPCs (non-player characters) before facing other players. As you progress, you will fight against other players' teams.
+Once you’ve placed your champions on the battlefield, you don’t control them directly. They automatically attack enemies, use their abilities, and follow certain behaviors based on their stats and traits.
+Positioning:
+
+One of the most important aspects of TFT is positioning your units effectively. The battlefield is a grid, and where you place each champion can determine if they win or lose a fight.
+For example, placing a tank unit in the front to absorb damage, and placing a damage-dealer at the back to stay safe, can make a big difference.
+Itemization:
+
+Throughout the game, you can earn items that can be equipped on your champions. These items give your units extra power, such as increased damage or health regeneration.
+Items can be crafted from components that you pick up in the game. Using items effectively is a key part of your strategy.
+The Objective of TFT
+Your main goal in TFT is to be the last player standing. Each player starts with a set number of health points. When you lose a round, you lose health. If your health reaches zero, you’re eliminated from the game.
+
+How the Game Progresses:
+Early Game:
+In the early stages, the game focuses on setting up the foundation for your team. You buy units, test different combinations, and create a basic strategy.
+Mid Game:
+By this point, you should have a better idea of your team's strengths and weaknesses. You’ll start focusing more on synergies and positioning. The game can also introduce stronger champions and better items.
+Late Game:
+As the game progresses, your team will become stronger and more refined. At this point, you'll focus on maximizing your synergies, improving your positioning, and trying to counter the strategies of other players.
+TFT's Unique Features:
+RNG (Random Number Generation): While skill and strategy are key, the game also involves some degree of randomness, such as what units and items appear in the shop.
+
+Adaptability: No two games are the same in TFT. Players need to adapt to the available champions, items, and synergies, making each game feel fresh and dynamic.
+
+Multiplayer Experience: In TFT, you are not just battling NPCs. You are competing against up to seven other players, which adds an element of unpredictability and requires you to adjust your strategy accordingly.
+
+Winning in TFT:
+To win in TFT, you need to manage your resources (gold, units, and items) effectively, create powerful synergies, and position your units in a way that gives them the best chance of victory. If you build the strongest team and outlast your opponents, you’ll be the last player standing and win the game.
+
+Conclusion:
+Teamfight Tactics is a unique, engaging, and strategic auto-battler that combines elements of role-playing games, real-time strategy, and the randomness of card games. By understanding how to manage resources, build synergies, and position your champions effectively, you can outsmart and outlast your opponents. With its deep strategic depth and ever-evolving gameplay, TFT provides players with endless possibilities and replay value.

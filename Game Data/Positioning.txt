@@ -1,0 +1,64 @@
+Positioning Grid in TFT
+The positioning grid in Teamfight Tactics (TFT) is a crucial part of the game, as it dictates where you place your units on the battlefield. Since battles in TFT are automatic (i.e., your units fight on their own without your direct control), the placement of your units plays a key role in determining the outcome of the match. The grid is a series of rows and columns, and careful unit placement can make the difference between victory and defeat.
+
+Structure of the Grid:
+Grid Size:
+
+The grid in TFT is typically a 7x7 square, giving you 49 available spots to place your units.
+However, the exact grid size may change depending on the specific version of the game or any future updates.
+Rows and Columns:
+
+The grid is divided into rows and columns, with each row being a horizontal line and each column being a vertical line.
+Units can be placed anywhere within this grid. The positions you choose have a significant impact on how the fight plays out.
+Champion Placement:
+
+When you place a champion (unit) on the battlefield, the position it occupies within the grid will affect its interactions with other units, both from your team and the enemy team.
+How Positioning Affects Combat:
+Frontline vs. Backline:
+
+Frontline: These are the units you place closer to the enemy. They act as tanks, meaning their job is to take damage and protect your more vulnerable units (e.g., damage dealers or support units).
+Frontline units should ideally have high health and defensive stats to absorb as much damage as possible.
+Backline: These units are placed farther away from the enemy. They are usually damage-dealers or support units that rely on their ability to deal damage or provide buffs to your team.
+Backline units typically have lower health and should be kept safe from the enemy’s frontline units.
+Tank and Carry Units:
+
+Tank units (frontline) are meant to protect the more fragile carry units (backline). A good strategy is to place tanks in the most exposed spots where they can absorb enemy damage while your carries deal damage safely from the rear.
+Carry units, often your damage dealers, should be positioned in places where they are not easily reached by the enemy’s tanks or assassins.
+Assassins:
+
+Assassins are special units that have a unique mechanic: they jump to the backline of the enemy team, bypassing your frontline.
+To counter this, place your carry units in positions where they are less likely to be reached by assassins. For example, positioning them in corners or away from open spaces can make it harder for assassins to jump directly to them.
+Ranged vs. Melee Units:
+
+Melee units (such as many tanks) need to be placed in the frontlines, as they have to get close to the enemy to deal damage.
+Ranged units (such as many damage dealers) should be positioned in the backlines, where they can deal damage from a distance without putting themselves in harm’s way.
+Items and Positioning:
+
+Items also play a role in how effective your units are. For example, if a unit is equipped with an item that boosts its attack speed, you might want to place it in a safe spot where it can get off multiple attacks without being interrupted.
+Tank items (like Warmog's Armor) should be placed on your frontline units, as these items improve the tank's survivability.
+Strategic Considerations for Positioning:
+Crowd Control (CC):
+
+If your enemies have strong crowd control units (like stuns or area-of-effect damage), you may want to spread out your units across the grid to minimize the impact of these abilities.
+Alternatively, you can try to cluster your units in a way that maximizes the effectiveness of your own crowd control abilities.
+Corners and Edges:
+
+Placing units in the corners or on the edges of the grid can provide protection from assassins, as they usually jump to the closest units. These positions can also be good for certain ranged units or squishy carries, keeping them out of harm’s way.
+Synergies and Positioning:
+
+Certain synergies in the game require your units to be close together to activate specific bonuses. For example, some Mages might benefit from being grouped together to cast their spells more effectively, or some Brawlers might become more powerful when near each other.
+Positioning Examples:
+Example 1 – Tanky Frontline:
+
+Place your tank units (like Brawlers or Knights) in the front to absorb damage.
+Position your carry units (like Gunslingers or Assassins) in the backline to deal damage from a safe distance.
+Example 2 – Assassin Counter:
+
+To avoid your Assassins jumping to your backline, place your damage-dealing units in the corners or spread out along the edges of the grid.
+You might also want to place a tank unit near the backline to absorb the damage from any enemy assassins.
+Example 3 – Mage Synergy:
+
+If you're running Mages, you might want to place them together in the center of the grid so they can benefit from Mage synergies (such as increased spell damage).
+Make sure to place your tank units around the Mages to protect them from damage.
+Conclusion:
+In Teamfight Tactics, positioning is a key element of strategy that can dramatically influence the outcome of a match. Properly placing your units on the grid helps maximize their strengths, protect your key champions, and counter enemy threats. The best players understand the nuances of the positioning grid and adapt it to their team's composition, the synergies they’re running, and the threats they expect from opponents.

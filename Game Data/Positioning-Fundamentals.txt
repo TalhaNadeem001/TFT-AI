@@ -1,0 +1,49 @@
+How Does Unit AI Work in TFT?
+Targeting Behavior:
+When a fight starts, units target the closest enemy unit.
+If there is a tie in range (multiple units are equidistant), it becomes a 50/50 chance which enemy unit will be targeted.
+When the enemy's targeted unit dies, your unit will automatically shift to the next closest unit.
+This means units do not always have precise control over what they target in a fight; the AI focuses primarily on proximity and continues to adjust its target as the battle progresses.
+
+What Does This Mean for Your Melee Carry?
+Melee Carry as a Frontline Unit:
+Melee carries (such as damage-dealing champions) are not considered frontline units.
+These carry units generally do not have traits that make them tanky, which is why they should not be treated as frontliners. They may have more armor/magic resist than pure carries but not enough to withstand the full brunt of enemy damage.
+Regular frontline units often have abilities that make them more difficult to kill, like crowd control or damage mitigation.
+Positioning for Melee Carry:
+Frontline Placement:
+
+Tanky units (such as Brawlers or Knights) should be placed in the front row to absorb enemy damage.
+Melee carries typically go to the second row. This way, they are protected by the frontline but can still engage in combat and deal damage.
+Tanky Carry Placement:
+
+If your carry is strong enough (e.g., a tanky carry with enough health or damage reduction), you can place them between your tanks but never on the outermost positions.
+Units placed on the edges are more likely to be targeted by enemy units, particularly those with high mobility or assassins.
+Tank’s Role in Protecting Carry:
+
+Position your strongest tank next to your carry so that the enemy will target the tank first, allowing your carry to remain safe.
+If your carry is placed on the outside of your team, once the tank dies, the AI will shift its focus to the next closest unit. This could either be your carry in the middle of the tanks or your carry who has moved up from the second row.
+The positioning should be such that tanks are the first priority for enemy units, protecting the carry until the tank is defeated.
+Units’ Value and Positioning for Casting:
+Casting Priority:
+A unit’s value is partly defined by its ability to cast abilities. Many units in TFT rely on abilities to perform well in battle.
+To ensure that your most important units can cast without dying early, position them safely. This means placing them in positions where they can reach the enemy and cast their abilities while minimizing the risk of being killed too soon.
+Units that are fragile but need to cast early should be positioned far enough away from the enemy to survive longer, giving them time to use their abilities.
+Positioning Strategy for Backline Carries
+Main Tank Positioning:
+
+The main tank should be positioned in the middle of the battlefield. This central placement ensures that the enemy cannot bypass them easily, forcing the enemy to fight through the tank first before reaching the backline.
+Backline carries (damage dealers or support units) should be placed behind the main tank, typically at the second row, out of reach from most enemies.
+Why the Main Tank Should Be in the Middle:
+
+If the main tank is on the edges of the grid, the enemy units might bypass them easily and target weaker frontliners or directly reach the backline.
+By placing the main tank centrally, the AI forces the enemy to deal with the tank first, protecting the weaker and more vulnerable backline units until the tank is eliminated.
+Backline Carry’s Safety:
+
+Backline units (such as mages or ranged carries) cannot be targeted by the enemy until your frontline has been defeated.
+The central tank placement ensures that the backline units stay protected for longer, preventing the enemy from killing your frontline from one side and then walking through to the backline.
+Extra Tips:
+If your frontline is too weak or doesn’t have the right synergy, enemies may quickly wipe them out, allowing them to focus on your backline carries.
+Consider using crowd control (CC) to disable enemies and buy time for your carry units to deal damage.
+Items that boost survivability (like Warmog's Armor or Guardian Angel) are ideal for your frontline tanks, while damage items (such as Rabadon’s Deathcap or Infinity Edge) should be prioritized on your carries.
+Assassin units that leap into the backline can be a big threat. Place your carry units away from the edges or keep them in protected positions.
